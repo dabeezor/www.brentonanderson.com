@@ -1,0 +1,15 @@
+/*
+Theme Name:     responsive_alpha
+Description:    Responsive theme for alpha
+Author:         alpha_wordpress_admin
+Template:       responsive
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../responsive/style.css");
+
+.childTest
+{
+background-color:#BBBBBB;
+}
